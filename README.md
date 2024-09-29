@@ -1,4 +1,4 @@
-👋 Hi, I am a software engineer with a particular interest in full-stack web development.
+👋 Hi, I am a software engineer with a focus on full-stack web development, committed to delivering high-quality, scalable solutions with clean, structured code that directly addresses the core problems.
 
 ## About Me
 
