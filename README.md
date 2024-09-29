@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I am a software engineer with a particular interest in full-stack web development.
 
-<!--
-**hnaji-el/hnaji-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I mainly work with React for front-end development and Node.js/Express.js/NestJS for back-end development, along with databases, Git, Docker, and various other tools. In addition, I have built many projects using C and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a deep curiosity to understand how underlying technologies work because that leads me to appreciate the abstractions better.
+
+I am also passionate about contributing to the real world in meaningful ways. My goal is to add value through my work and efforts, striving to make a positive impact on society.
+
+## Technical Skills 🛠️
+
+**PROGRAMMING LANGUAGES:** JavaScript | TypeScript | C | C++  
+**FRONT-END DEVELOPMENT:** React | HTML | CSS | Tailwind CSS  
+**BACK-END DEVELOPMENT:** Node.js | Express.js | NestJS | PostgreSQL  
+**TOOLS** Git | Docker | Docker Compose | Figma
+
+## Connect with Me 📬
+
+- 📫 [Email](hamidnajielidrissi@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hamidnaji/)
