@@ -10,12 +10,14 @@ I am also passionate about contributing to the real world in meaningful ways. My
 
 ## Technical Skills 🛠️
 
-**PROGRAMMING LANGUAGES:** JavaScript | TypeScript | C | C++  
-**FRONT-END DEVELOPMENT:** React | HTML | CSS | Tailwind CSS  
-**BACK-END DEVELOPMENT:** Node.js | Express.js | NestJS | PostgreSQL  
-**TOOLS** Git | Docker | Docker Compose | Figma
+- **Programming Languages:** JavaScript | TypeScript | C | C++  
+- **Front-end Development:** React | HTML | CSS | Tailwind CSS  
+- **Back-end Development:** Node.js | Express.js | NestJS | PostgreSQL  
+- **Tools:** Git | Docker | Figma
 
 ## Connect with Me 📬
 
-- 📫 [Email](hamidnajielidrissi@gmail.com)
+- 📫 [Email](mailto:hamidnajielidrissi@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hamidnaji/)
+
+Feel free to reach out, and let's create something exceptional together.
