@@ -2,7 +2,7 @@
 
 ## About Me
 
-I mainly work with React for front-end development and Node.js/Express.js/NestJS for back-end development, along with databases, Git, Docker, and various other tools. In addition, I have built many projects using C and C++.
+I mainly work with React and Next.js for front-end development and Node.js/Express.js/NestJS for back-end development, along with databases, Git, Docker, and various other tools. In addition, I have built many projects using C and C++.
 
 I have a deep curiosity to understand how underlying technologies work because that leads me to appreciate the abstractions better.
 
@@ -11,9 +11,9 @@ I am also passionate about contributing to the real world in meaningful ways. My
 ## Technical Skills 🛠️
 
 - **Programming Languages:** JavaScript | TypeScript | C | C++  
-- **Front-end Development:** React | HTML | CSS | Tailwind CSS  
+- **Front-end Development:** React | Next.js | HTML | CSS | Tailwind CSS | CSS Modules 
 - **Back-end Development:** Node.js | Express.js | NestJS | PostgreSQL  
-- **Tools:** Git | Docker | Figma
+- **Tools:** Nginx | Git | Docker | Figma
 
 ## Connect with Me 📬
 
