@@ -10,7 +10,7 @@ I am also passionate about contributing to the real world in meaningful ways. My
 
 ## Technical Skills 🛠️
 
-- **Programming Languages:** JavaScript | TypeScript | C | C++  
+- **Programming Languages:** JavaScript | TypeScript | Python | C | C++  
 - **Frontend Development:** React | Next.js | HTML | CSS | Tailwind CSS | CSS Modules 
 - **Backend Development:** Node.js | Express.js | NestJS | PostgreSQL  
 - **Tools:** Nginx | Git | Docker | Figma
